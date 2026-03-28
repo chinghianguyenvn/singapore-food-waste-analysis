@@ -5,6 +5,9 @@ This repository contains the R code and dataset used to analyze macro-level tren
 
 The primary objective of this brief analysis is to evaluate the long-term efficacy of downstream waste management solutions (specifically recycling) and to highlight the necessity of shifting toward upstream, predictive supply chain interventions (Zero-Waste Predictive Modeling).
 
+![The Illusion of Recycling Chart](illusion_of_recycling_chart.png)
+
+
 ## 📈 Key Findings (The "Glass Ceiling" of Recycling)
 Using `ggplot2` in R, I visualized the relationship between the total food waste generated and the national recycling rate. 
 As seen in the generated visualization:
