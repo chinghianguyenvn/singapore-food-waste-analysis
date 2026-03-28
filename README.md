@@ -5,7 +5,9 @@ This repository contains the R code and dataset used to analyze macro-level tren
 
 The primary objective of this brief analysis is to evaluate the long-term efficacy of downstream waste management solutions (specifically recycling) and to highlight the necessity of shifting toward upstream, predictive supply chain interventions (Zero-Waste Predictive Modeling).
 
-![illusion_of_recycling_chart_AI_graphic](illusion_of_recycling_chart_AI_graphics.png)
+
+<img width="2752" height="1536" alt="unnamed" src="https://github.com/user-attachments/assets/82a9e08a-b7bd-47bf-aa9b-3daeb77c5e65" />
+
 
 
 ## 📈 Key Findings (The "Glass Ceiling" of Recycling)
