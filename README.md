@@ -13,6 +13,9 @@ The primary objective of this brief analysis is to evaluate the long-term effica
 ## 📈 Key Findings (The "Glass Ceiling" of Recycling)
 Using `ggplot2` in R, I visualized the relationship between the total food waste generated and the national recycling rate. 
 As seen in the generated visualization:
+
+<img width="1280" height="800" alt="Screenshot 2026-03-28 at 16 20 46" src="https://github.com/user-attachments/assets/a80645e5-17b9-46a2-97b7-94144795e917" />
+
 * **The Blue Bars (Total Waste):** Show a massive and continuous generation of food waste, frequently exceeding 700,000 tonnes annually in recent years.
 * **The Red Line (Recycling Rate):** Reveals a critical plateau. Despite Singapore being a global benchmark for infrastructure and environmental management, their food recycling rate has stagnated below the 20% mark for two decades.
 
